@@ -1,2 +1,7 @@
 This is the new file
+<<<<<<< HEAD
 i added a new feature
+=======
+
+Now im in branch
+>>>>>>> ModuleBranch
